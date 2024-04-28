@@ -1,0 +1,98 @@
+* {
+  font-family: Roboto;
+}
+
+body{
+  width: 1170px;
+}
+
+ul {
+  list-style-type: none;
+
+}
+a {
+  text-decoration: none;
+}
+
+
+
+.logo{
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+  }
+.menu {
+font-size: 14px;
+/*----------------------------*/
+}
+.menu a{
+  color: black;
+  
+}
+.menu a:hover {
+  color: #2196F3; 
+}
+
+.contacts {
+  font-size: 14px; 
+}
+.contacts a {
+  color: #757575;
+}
+.contacts a:hover {
+  color: #2196F3;
+}
+/*-------------------------*/
+
+.header-main {
+  text-align: center;
+}
+.header-main h1 {
+  font-size: 44px;
+  color: white;
+  background-color: black;
+}
+.button {
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #2196F3;
+  color: white;
+  padding:15px 15px 15px 15px;
+  border-radius: 4px;
+  text-align: center;
+}
+.menu-heading {
+  font-weight: bold;
+  font-size: 14px;
+  color: #212121;
+}
+.text-menu-heading {
+  font-weight: regular;
+  font-size: 14px;
+  color: #757575;
+}
+.we-do {
+  font-weight: bold;
+  font-size: 36px;
+  color: #212121;
+  text-align: center;
+}
+.our-team {
+  font-weight: bold;
+  font-size: 36px;
+  color: #212121;
+  text-align: center;
+}
+.names {
+  color: #212121;
+}
+.jobs {
+  color: #757575;
+}
+.place {
+  font-size: 14px;
+  background-color: #2F303A;
+}
+.center {
+  text-align: center;
+}
